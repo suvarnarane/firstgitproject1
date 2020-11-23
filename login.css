@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+padding: 0px;
+background: url(food.jpg); 
+background-size: cover;
+
+font-family: sans-serif;   
+}
+h1{
+    color: cyan;
+
+}
+tr td{
+color: cyan;
+}
